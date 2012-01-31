@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+
+steppenwolf:
+  title: Steppenwolf
+  authors: Hermann Hesse
+  description: A great book
+
+#one:
+  #title: MyString
+  #authors: MyString
+  #description: MyText
+
+#two:
+  #title: MyString
+  #authors: MyString
+  #description: MyText
